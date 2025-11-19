@@ -248,7 +248,7 @@ REQUIRE_WIFI_CHECK = False
 
 📜 License
 
-MIT License with Clinical/Commercial Use Restriction
+CHECK LICENSE FILE ON GROK DOC ENTERPRISE, Commercial Use Restriction
 
 Free for:
 
